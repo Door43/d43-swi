@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swi:home|Door43 (swi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swi|d43-swi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swi/archive/master.zip|d43-swi.zip]]
+
+**Recent Changes**
+{{changes>ns = swi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swi|Ethnologue data]]
+
